@@ -63,7 +63,7 @@
 .animation {
   width: 88%;
   margin: auto;
-  height: 230px;
+  height: fit-content;
   color: #d2d2d2;
   font-family: Poppins-SemiBold;
   font-size: 37px;
